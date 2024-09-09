@@ -19,3 +19,8 @@ button,
 body {
   padding: 80px 24px 120px 90px;
 }
+
+a {
+  display: block;
+  text-decoration: none;
+}

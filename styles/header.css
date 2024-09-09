@@ -38,7 +38,7 @@
   font-size: 12px;
   bottom: -24px;
   opacity: 0;
-  border-radius: 2px;
+  border-radius: 4px;
   transition: opacity 0.15s;
   pointer-events: none;
   white-space: nowrap;
@@ -99,7 +99,7 @@
   font-size: 12px;
   bottom: -30px;
   opacity: 0;
-  border-radius: 2px;
+  border-radius: 4px;
   transition: opacity 0.15s;
   pointer-events: none;
   white-space: nowrap;

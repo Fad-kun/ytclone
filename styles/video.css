@@ -62,6 +62,7 @@
 }
 
 .video-title {
+  width: 250px;
   margin-bottom: 6px;
   font-size: 14px;
   font-weight: 700;
@@ -70,9 +71,16 @@
 }
 
 .video-author {
+  width: 120px;
   margin: 4px 0px;
   font-size: 12px;
   color: #646b81;
+  transition: color 0.15s;
+}
+
+.video-author:hover {
+  color: #474c5c;
+  font-weight: 500;
 }
 
 .video-stats {
